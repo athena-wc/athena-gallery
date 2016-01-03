@@ -1,18 +1,18 @@
 {
   "name": "athena-gallery",
-  "version": "1.0.3",
+  "version": "0.1.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Carlos Araya <carlos.araya@gmail.com>"
   ],
-  "description": "An element providing a solution to no problem in particular.",
+  "description": "Container for flexbox-based image galleries or similar type of content",
   "keywords": [
     "web-component",
     "polymer",
-    "seed"
+    "flexbox"
   ],
   "main": "athena-gallery.html",
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "license": "http://caraya.mit-license.org/",
+  "homepage": "http://caraya.github.io/athena-gallery/",
   "ignore": [
     "/.*",
     "/test/"
@@ -24,5 +24,6 @@
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "web-component-tester": "*"
-  }
+  },
+  "private": true
 }
